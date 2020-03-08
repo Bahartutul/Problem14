@@ -1,0 +1,8 @@
+C:\Users\Booyah\Desktop\TutsShit\TutsShit\bin\Debug\netcoreapp3.1\TutsShit.deps.json
+C:\Users\Booyah\Desktop\TutsShit\TutsShit\bin\Debug\netcoreapp3.1\TutsShit.dll
+C:\Users\Booyah\Desktop\TutsShit\TutsShit\bin\Debug\netcoreapp3.1\TutsShit.pdb
+C:\Users\Booyah\Desktop\TutsShit\TutsShit\obj\Debug\netcoreapp3.1\TutsShit.csprojAssemblyReference.cache
+C:\Users\Booyah\Desktop\TutsShit\TutsShit\obj\Debug\netcoreapp3.1\TutsShit.AssemblyInfoInputs.cache
+C:\Users\Booyah\Desktop\TutsShit\TutsShit\obj\Debug\netcoreapp3.1\TutsShit.AssemblyInfo.cs
+C:\Users\Booyah\Desktop\TutsShit\TutsShit\obj\Debug\netcoreapp3.1\TutsShit.dll
+C:\Users\Booyah\Desktop\TutsShit\TutsShit\obj\Debug\netcoreapp3.1\TutsShit.pdb
